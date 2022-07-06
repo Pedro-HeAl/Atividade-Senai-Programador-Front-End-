@@ -4,3 +4,6 @@ Repositório para conclusão da atividade do curso de Programador Front End do S
 Readme for Senai BP front end programmer course
 
 Pedro Henrique de Almeida 
+
+
+Complementado para teste por Milene Oliveira
